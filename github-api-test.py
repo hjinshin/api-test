@@ -1,4 +1,4 @@
-#get requirements
+#get users information
 #2022-04-15 hjinshin
 
 import pprint
